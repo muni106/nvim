@@ -1,1 +1,2 @@
-require("muni.core.options")
+require("muni.core")
+require("muni.lazy")
