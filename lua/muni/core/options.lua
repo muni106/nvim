@@ -9,8 +9,15 @@ opt.termguicolors = true
 
 opt.tabstop = 2 
 
-opt.backspace = "indent,eol,start"
+
+vim.opt.backspace = { 'indent' ,'eol','start' }
 
 opt.background = "dark"
 
 opt.clipboard:append("unnamedplus")
+
+vim.opt.tabstop = 4          -- Width of a tab character
+vim.opt.shiftwidth = 4       -- Size of an indent
+vim.opt.softtabstop = 4      -- Number of spaces for <Tab> and <BS>
+vim.opt.expandtab = true     -- Convert tabs to spaces
+vim.opt.smarttab = true      -- Use shiftwidth at start of lines
