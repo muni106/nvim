@@ -1,0 +1,22 @@
+gc => comment
+
+ff => fuzzy finder (files)
+fs => fuzzy finder (text)
+ft => fuzzy find todo
+
+sv => split vertical
+sh => split horizontal
+sx => close split
+
+sm => minimize/maximize other split
+
+ee => open barra a sinistra
+ec => collaps left bar
+
+to => new tab
+tx => close tab
+tp, tn => previos and next tab
+tf => open current tab in new tab
+
+ctrl + h/l => witch split
+
